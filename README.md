@@ -1,4 +1,3 @@
-# cat-blog
 
 ## Project setup
 ```
